@@ -1,8 +1,8 @@
 # Hand-Detection-Yolov5
 
 ## Dataset
-Training images :- 2527
-Validation set :- 13
+-Training images :- 2527
+-Validation set :- 13
 
 ## Image Annotations
 Annotated data using LabelImg.py in YOLO format
